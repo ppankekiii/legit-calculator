@@ -13,6 +13,7 @@ function clearDisplay() {
 
 function calculate() {
   // here's the prank 😈
-  display.value = "Hello, World!";
+  display.value = "Hello World!";
   input = "";
 }
+
